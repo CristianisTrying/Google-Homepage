@@ -1,0 +1,29 @@
+#top-div {
+    text-align: left;
+}
+
+#only_navbar {
+    display: table;
+    width: 100%;
+    text-align: right;
+}
+
+.labels {
+    display: table-cell;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#google-logo {
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+#search-bar {
+    margin-left: 37%;
+    margin-top: 2%;
+    border-radius: 5%;
+    width: 15cm;
+    
+}
